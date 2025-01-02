@@ -4,7 +4,7 @@
 START=99
 
 start () {
-    DOMAINS=https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-dnsmasq-nfset.lst
+    DOMAINS=https://raw.githubusercontent.com/Yusupoff/list-domains/refs/heads/main/dnsmasq-nfset.lst
 
     count=0
     while true; do
