@@ -60,4 +60,6 @@ nftset=/spyjinx.com/4#inet#fw4#vpn_domains
 nftset=/unrealengine.com/4#inet#fw4#vpn_domains
 nftset=/unrealtournament.com/4#inet#fw4#vpn_domains
 nftset=/torproject.org/4#inet#fw4#vpn_domains
-
+nftset=/krasovs.ky/4#inet#fw4#vpn_domains
+nftset=/medium.com/4#inet#fw4#vpn_domains
+nftset=/ntc.party/4#inet#fw4#vpn_domains
